@@ -1,0 +1,5 @@
+.van-dialog__content,
+.van-dialog__header,
+.van-dialog__message {
+    font-size: 0.3rem;
+}
