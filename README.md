@@ -1,4 +1,4 @@
-# today_healine
+# news-app
 
 ## Project setup
 ```
